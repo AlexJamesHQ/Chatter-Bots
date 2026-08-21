@@ -1,0 +1,10 @@
+{
+  "name": "ChatterBots",
+  "description": "Build and banter with your own AI characters using the Live API with bilingual English and Bengali voice support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
